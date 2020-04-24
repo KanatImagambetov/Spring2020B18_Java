@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="02eb0d92-aab4-4995-a5f2-0596b9938fd2" name="Default Changelist" comment="" />
+    <list default="true" id="02eb0d92-aab4-4995-a5f2-0596b9938fd2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day28_DateTime/Time_Formating.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day28_DateTime/Time_Formating.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +19,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/day01_FirstProgramming" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1Yto7MJIfPY21QNDAxBvVPrP0rG" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -170,6 +174,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="114" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1366.728@0.0.1366.728" timestamp="1587577126129" />
+    <state x="319" y="0" key="CommitChangelistDialog2" timestamp="1587761140583">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="319" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1587761140583" />
     <state x="463" y="122" key="FileChooserDialogImpl" timestamp="1586713275389">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
