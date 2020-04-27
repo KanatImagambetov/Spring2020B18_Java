@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="02eb0d92-aab4-4995-a5f2-0596b9938fd2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/day29_Wrapper_ArrayList/AutoBoxing.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day28_DateTime/Time_Formating.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day28_DateTime/Time_Formating.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,20 +42,7 @@
       <recent name="Resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.repl03">
-    <configuration name="DateTimeFormat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day28_DateTime.DateTimeFormat" />
-      <module name="Spring2020B18_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day28_DateTime.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ValueOfMethod">
     <configuration name="Example01" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="GUI_exercises.Example01" />
       <module name="Spring2020B18_Java" />
@@ -69,12 +56,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LocaLTD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day28_DateTime.LocaLTD" />
+    <configuration name="ParseMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day29_Wrapper_ArrayList.ParseMethods" />
       <module name="Spring2020B18_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day28_DateTime.*" />
+          <option name="PATTERN" value="day29_Wrapper_ArrayList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ValueOfMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day29_Wrapper_ArrayList.ValueOfMethod" />
+      <module name="Spring2020B18_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day29_Wrapper_ArrayList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ValueOfMethod" />
+        <item itemvalue="Application.ParseMethods" />
         <item itemvalue="Application.repl03" />
         <item itemvalue="Application.repl02" />
         <item itemvalue="Application.repl01" />
-        <item itemvalue="Application.DateTimeFormat" />
-        <item itemvalue="Application.LocaLTD" />
       </list>
     </recent_temporary>
   </component>
@@ -184,22 +184,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="122" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1586713275389" />
-    <state width="1323" height="108" key="GridCell.Tab.0.bottom" timestamp="1587997632186">
+    <state width="1323" height="173" key="GridCell.Tab.0.bottom" timestamp="1588003717771">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="108" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587997632186" />
-    <state width="1323" height="108" key="GridCell.Tab.0.center" timestamp="1587997632186">
+    <state width="1323" height="173" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588003717771" />
+    <state width="1323" height="173" key="GridCell.Tab.0.center" timestamp="1588003717771">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="108" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587997632186" />
-    <state width="1323" height="108" key="GridCell.Tab.0.left" timestamp="1587997632186">
+    <state width="1323" height="173" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1588003717771" />
+    <state width="1323" height="173" key="GridCell.Tab.0.left" timestamp="1588003717771">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="108" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587997632186" />
-    <state width="1323" height="108" key="GridCell.Tab.0.right" timestamp="1587997632186">
+    <state width="1323" height="173" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1588003717771" />
+    <state width="1323" height="173" key="GridCell.Tab.0.right" timestamp="1588003717771">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="108" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587997632186" />
+    <state width="1323" height="173" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1588003717771" />
     <state width="1323" height="222" key="GridCell.Tab.1.bottom" timestamp="1587751251784">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
