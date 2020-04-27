@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="02eb0d92-aab4-4995-a5f2-0596b9938fd2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day28_DateTime/Time_Formating.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day28_DateTime/Time_Formating.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day28_DateTime/Time_Formating.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day28_DateTime/Time_Formating.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +42,7 @@
       <recent name="Resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DateTimeFormat">
+  <component name="RunManager" selected="Application.repl03">
     <configuration name="DateTimeFormat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day28_DateTime.DateTimeFormat" />
       <module name="Spring2020B18_Java" />
@@ -83,8 +82,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LocalDate_Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day28_DateTime.LocalDate_Practice" />
+    <configuration name="repl01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day28_DateTime.repl01" />
       <module name="Spring2020B18_Java" />
       <extension name="coverage">
         <pattern>
@@ -96,8 +95,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Time (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day28_DateTime.Time" />
+    <configuration name="repl02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day28_DateTime.repl02" />
       <module name="Spring2020B18_Java" />
       <extension name="coverage">
         <pattern>
@@ -109,8 +108,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Time_Formating" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day28_DateTime.Time_Formating" />
+    <configuration name="repl03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day28_DateTime.repl03" />
       <module name="Spring2020B18_Java" />
       <extension name="coverage">
         <pattern>
@@ -124,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.repl03" />
+        <item itemvalue="Application.repl02" />
+        <item itemvalue="Application.repl01" />
         <item itemvalue="Application.DateTimeFormat" />
         <item itemvalue="Application.LocaLTD" />
-        <item itemvalue="Application.Time_Formating" />
-        <item itemvalue="Application.Time (1)" />
-        <item itemvalue="Application.LocalDate_Practice" />
       </list>
     </recent_temporary>
   </component>
@@ -144,6 +143,9 @@
       <updated>1583771082897</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
   <component name="WindowStateProjectService">
     <state x="275" y="25" key="#Project_Structure" timestamp="1583778711702">
@@ -174,30 +176,30 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="114" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1366.728@0.0.1366.728" timestamp="1587577126129" />
-    <state x="319" y="0" key="CommitChangelistDialog2" timestamp="1587761140583">
+    <state x="319" y="0" key="CommitChangelistDialog2" timestamp="1587997592292">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="319" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1587761140583" />
+    <state x="319" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1587997592292" />
     <state x="463" y="122" key="FileChooserDialogImpl" timestamp="1586713275389">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="122" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1586713275389" />
-    <state width="1323" height="222" key="GridCell.Tab.0.bottom" timestamp="1587751251784">
+    <state width="1323" height="108" key="GridCell.Tab.0.bottom" timestamp="1587997632186">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="222" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587751251784" />
-    <state width="1323" height="222" key="GridCell.Tab.0.center" timestamp="1587751251784">
+    <state width="1323" height="108" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587997632186" />
+    <state width="1323" height="108" key="GridCell.Tab.0.center" timestamp="1587997632186">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="222" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587751251784" />
-    <state width="1323" height="222" key="GridCell.Tab.0.left" timestamp="1587751251784">
+    <state width="1323" height="108" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587997632186" />
+    <state width="1323" height="108" key="GridCell.Tab.0.left" timestamp="1587997632186">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="222" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587751251784" />
-    <state width="1323" height="222" key="GridCell.Tab.0.right" timestamp="1587751251784">
+    <state width="1323" height="108" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587997632186" />
+    <state width="1323" height="108" key="GridCell.Tab.0.right" timestamp="1587997632186">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="222" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587751251784" />
+    <state width="1323" height="108" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587997632186" />
     <state width="1323" height="222" key="GridCell.Tab.1.bottom" timestamp="1587751251784">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
