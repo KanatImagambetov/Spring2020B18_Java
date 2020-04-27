@@ -1,7 +1,18 @@
 package Resources;
 
+import java.util.ArrayList;
 import java.util.Arrays;
 public class Library {
+    public static int max(ArrayList<Integer> arr) {
+        int max1=Integer.MIN_VALUE;
+
+        for(int i=0; i<arr.size(); i++){
+            if(arr.get(i)>max1){
+                max1=arr.get(i);
+            }
+        }
+        return  max1;
+    }
     public static void reverse(String word) {
         String reverse="";
         for(int i=word.length()-1; i>=0; i--){
