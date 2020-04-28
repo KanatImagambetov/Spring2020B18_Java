@@ -19,6 +19,21 @@ public class ArrayList_Methods2 {
         System.out.println(r1);
         System.out.println(r2);
 
+        list.clear();
+        System.out.println(list.size());
+
+        ArrayList<Integer> list2=new ArrayList<>();
+
+        list2.add(1);
+        list2.add(1);
+        list2.add(2);
+        list2.add(3);
+
+        int i=list2.indexOf(1);
+        System.out.println(i);
+
+        int i1=list2.indexOf(3);
+        System.out.println(i1);
 
     }
 }
