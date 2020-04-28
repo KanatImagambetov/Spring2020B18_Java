@@ -18,10 +18,7 @@ public class warmup {
                 sum+=Integer.parseInt(""+each);
             }
         }
-
         System.out.println(sum);
-
         boolean a=Character.isAlphabetic('A');
-
     }
 }
