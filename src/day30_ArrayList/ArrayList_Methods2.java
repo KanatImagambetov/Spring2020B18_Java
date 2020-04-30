@@ -30,6 +30,7 @@ public class ArrayList_Methods2 {
         list2.add(3);
 
         int i=list2.indexOf(1);
+
         System.out.println(i);
 
         int i1=list2.indexOf(3);
