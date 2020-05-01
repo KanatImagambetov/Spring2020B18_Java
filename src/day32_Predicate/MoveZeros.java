@@ -16,6 +16,7 @@ public class MoveZeros {
             }
         }
         System.out.println(count);
+        System.out.println("=======================================================");
         num.removeAll(Arrays.asList(0));
         System.out.println(num);
 

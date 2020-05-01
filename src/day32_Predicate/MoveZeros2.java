@@ -9,7 +9,12 @@ public class MoveZeros2 {
         ArrayList<Integer> num=new ArrayList<>();
         num.addAll(Arrays.asList(7,0,5,0,0,3,5,8,0,0,6));
         System.out.println(num);
-        num.set(0,num.get(5));
+        int a1=1;
+        num.remove(a1);
+        System.out.println(num);
+
+
+        num.set(0,num.get(4));
         System.out.println(num);
         num.add(3,5);
 
