@@ -7,8 +7,22 @@ import java.util.Collections;
 public class MoveZeros2 {
     public static void main(String[] args) {
         ArrayList<Integer> num=new ArrayList<>();
-        num.addAll(Arrays.asList(0,0,0,0,0,7,0,5,0,0,3,5,8,0,0,6));
+        num.addAll(Arrays.asList(7,0,5,0,0,3,5,8,0,0,6));
         System.out.println(num);
+        num.set(0,num.get(5));
+        System.out.println(num);
+        num.add(3,5);
+
+        System.out.println(num);
+        System.out.println("=================");
+        ArrayList<Integer> num1=new ArrayList<>();
+        Integer a=1;
+        System.out.println(num1.remove(a));
+        System.out.println("=============");
+        num1.add(10);
+        System.out.println(num1);
+        System.out.println("=====================================================================");
+
 
         int count=Collections.frequency(num,0);
         System.out.println(count);

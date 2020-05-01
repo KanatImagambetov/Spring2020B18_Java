@@ -10,6 +10,7 @@ public class Duuplicates {
         System.out.println(num);
 
 
+ //       ArrayList<double> list1=new ArrayList<>();
 
         ArrayList<String> list=new ArrayList<>();
         for(int i=0; i<num.size();i++){

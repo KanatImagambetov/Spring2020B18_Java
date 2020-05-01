@@ -22,8 +22,6 @@ public class MoveZeros {
         for(int i=count;i>=1;i--){
             num.add(0);
         }
-
         System.out.println(num);
-
     }
 }
