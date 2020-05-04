@@ -11,6 +11,7 @@ public class ArraysList_Methods {
 
         list.add(1,6);
         list.add(4,9);
+        System.out.println(list);
 
         list.set(3,9);
 

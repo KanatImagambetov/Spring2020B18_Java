@@ -9,9 +9,6 @@ public class Duuplicates {
         num.addAll(Arrays.asList("A","B","A","C","D","A"));
         System.out.println(num);
 
-
- //       ArrayList<double> list1=new ArrayList<>();
-
         ArrayList<String> list=new ArrayList<>();
         for(int i=0; i<num.size();i++){
             int count=0;
@@ -20,13 +17,10 @@ public class Duuplicates {
                     count++;
                 }
             }
-//            if(count>1&&!list.contains(num.get(i))){
             if(count>1){
                 list.add(num.get(i));
             }
         }
-
         System.out.println(list);
-
     }
 }

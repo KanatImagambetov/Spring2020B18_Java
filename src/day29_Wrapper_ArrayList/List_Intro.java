@@ -17,6 +17,7 @@ public class List_Intro {
         double a2=scores.get(2);
 
         System.out.println(a);
+        System.out.println(a1);
 
     }
 }

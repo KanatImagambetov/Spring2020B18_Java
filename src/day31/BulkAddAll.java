@@ -21,7 +21,6 @@ public class BulkAddAll {
         System.out.println("==============================================");
         String[] names={"daasd", "ddasdda", "adsseweew", "ggfffdfd"};
 
-
         ArrayList<String> nameList=new ArrayList<>();
         nameList.addAll(Arrays.asList(names));
 

@@ -13,7 +13,6 @@ public class MoveZeros2 {
         num.remove(a1);
         System.out.println(num);
 
-
         num.set(0,num.get(4));
         System.out.println(num);
         num.add(3,5);
@@ -27,7 +26,6 @@ public class MoveZeros2 {
         num1.add(10);
         System.out.println(num1);
         System.out.println("=====================================================================");
-
 
         int count=Collections.frequency(num,0);
         System.out.println(count);

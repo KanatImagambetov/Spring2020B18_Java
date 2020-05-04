@@ -7,19 +7,13 @@ import java.util.Collections;
 public class Collections_Methods {
     public static void main(String[] args) {
         ArrayList<Integer> list=new ArrayList<>(Arrays.asList(1,2,3,4,5,6,7,8,9));
-
         Integer max=Collections.max(list);
         System.out.println(max);
-
         list.removeAll(Arrays.asList(max));
         System.out.println(list);
-
         Integer max1=Collections.max(list);
         System.out.println(max1);
-
-
         ArrayList<Integer> list1=new ArrayList<>(Arrays.asList(1,2,3,4,5,6,7,8,9));
-
         Integer min=Collections.min(list1);
         System.out.println(min);
 
@@ -43,12 +37,7 @@ public class Collections_Methods {
         System.out.println(arr1);
         arr1.set(1,9);
         System.out.println(arr1);
-
-
         System.out.println(arr1.get(0));
         System.out.println(arr1);
-
-
-
     }
 }
