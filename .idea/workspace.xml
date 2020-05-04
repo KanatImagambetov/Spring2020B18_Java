@@ -2,15 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="02eb0d92-aab4-4995-a5f2-0596b9938fd2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/day32_Predicate/repl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day32_Predicate/Collections_Methods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day32_Predicate/Collections_Methods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day32_Predicate/MoveZeros.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day32_Predicate/MoveZeros.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day20_Arrays/ArraysUtilities.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day20_Arrays/ArraysUtilities.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day20_Arrays/additionArrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day20_Arrays/additionArrays.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day21_MultiDimentionalArrays/DeepToString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day21_MultiDimentionalArrays/DeepToString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day20_Arrays/ArraysUtilities.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day20_Arrays/ArraysUtilities.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day20_Arrays/additionArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day20_Arrays/additionArrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day21_MultiDimentionalArrays/DeepToString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day21_MultiDimentionalArrays/DeepToString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/day32_Predicate/MoveZeros2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day32_Predicate/MoveZeros2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Spring2020B18_Java" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -44,33 +52,7 @@
       <recent name="Resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Lambda">
-    <configuration name="Collections_Methods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day32_Predicate.Collections_Methods" />
-      <module name="Spring2020B18_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day32_Predicate.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Duuplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day32_Predicate.Duuplicates" />
-      <module name="Spring2020B18_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day32_Predicate.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.repl20">
     <configuration name="Example01" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="GUI_exercises.Example01" />
       <module name="Spring2020B18_Java" />
@@ -84,8 +66,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lambda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day32_Predicate.Lambda" />
+    <configuration name="repl11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day32_Predicate.repl11" />
       <module name="Spring2020B18_Java" />
       <extension name="coverage">
         <pattern>
@@ -97,8 +79,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MoveZeros2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day32_Predicate.MoveZeros2" />
+    <configuration name="repl20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day32_Predicate.repl20" />
       <module name="Spring2020B18_Java" />
       <extension name="coverage">
         <pattern>
@@ -110,8 +92,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Uniques" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day32_Predicate.Uniques" />
+    <configuration name="repl21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day32_Predicate.repl21" />
+      <module name="Spring2020B18_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day32_Predicate.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="repl22" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day32_Predicate.repl22" />
+      <module name="Spring2020B18_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day32_Predicate.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="repl23" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day32_Predicate.repl23" />
       <module name="Spring2020B18_Java" />
       <extension name="coverage">
         <pattern>
@@ -125,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lambda" />
-        <item itemvalue="Application.Uniques" />
-        <item itemvalue="Application.Collections_Methods" />
-        <item itemvalue="Application.Duuplicates" />
-        <item itemvalue="Application.MoveZeros2" />
+        <item itemvalue="Application.repl20" />
+        <item itemvalue="Application.repl23" />
+        <item itemvalue="Application.repl22" />
+        <item itemvalue="Application.repl21" />
+        <item itemvalue="Application.repl11" />
       </list>
     </recent_temporary>
   </component>
@@ -186,38 +194,38 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="122" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1586713275389" />
-    <state width="1323" height="192" key="GridCell.Tab.0.bottom" timestamp="1588364254356">
+    <state width="1323" height="155" key="GridCell.Tab.0.bottom" timestamp="1588596256189">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="192" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588364254356" />
-    <state width="1323" height="192" key="GridCell.Tab.0.center" timestamp="1588364254356">
+    <state width="1323" height="155" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588596256189" />
+    <state width="1323" height="155" key="GridCell.Tab.0.center" timestamp="1588596256189">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="192" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1588364254356" />
-    <state width="1323" height="192" key="GridCell.Tab.0.left" timestamp="1588364254356">
+    <state width="1323" height="155" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1588596256189" />
+    <state width="1323" height="155" key="GridCell.Tab.0.left" timestamp="1588596256189">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="192" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1588364254356" />
-    <state width="1323" height="192" key="GridCell.Tab.0.right" timestamp="1588364254356">
+    <state width="1323" height="155" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1588596256189" />
+    <state width="1323" height="155" key="GridCell.Tab.0.right" timestamp="1588596256189">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="192" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1588364254356" />
-    <state width="1323" height="222" key="GridCell.Tab.1.bottom" timestamp="1587751251784">
+    <state width="1323" height="155" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1588596256189" />
+    <state width="1323" height="222" key="GridCell.Tab.1.bottom" timestamp="1588530248909">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="222" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587751251784" />
-    <state width="1323" height="222" key="GridCell.Tab.1.center" timestamp="1587751251784">
+    <state width="1323" height="222" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588530248909" />
+    <state width="1323" height="222" key="GridCell.Tab.1.center" timestamp="1588530248909">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="222" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1587751251784" />
-    <state width="1323" height="222" key="GridCell.Tab.1.left" timestamp="1587751251784">
+    <state width="1323" height="222" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1588530248909" />
+    <state width="1323" height="222" key="GridCell.Tab.1.left" timestamp="1588530248909">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="222" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1587751251784" />
-    <state width="1323" height="222" key="GridCell.Tab.1.right" timestamp="1587751251784">
+    <state width="1323" height="222" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1588530248909" />
+    <state width="1323" height="222" key="GridCell.Tab.1.right" timestamp="1588530248909">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="222" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1587751251784" />
+    <state width="1323" height="222" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1588530248909" />
     <state x="184" y="0" key="SettingsEditor" timestamp="1585068843519">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -242,18 +250,18 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1588185485665" />
-    <state x="391" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1587652678807">
+    <state x="391" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1588436191076">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="391" y="0" key="refactoring.ChangeSignatureDialog/0.0.1366.728@0.0.1366.728" timestamp="1587652678807" />
-    <state x="339" y="162" key="run.anything.popup" timestamp="1586804608393">
+    <state x="391" y="0" key="refactoring.ChangeSignatureDialog/0.0.1366.728@0.0.1366.728" timestamp="1588436191076" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1588435203932">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1586804608393" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1588264706925">
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1588435203932" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1588532359869">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1588264706925" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1588532359869" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -267,6 +275,26 @@
           <url>file://$PROJECT_DIR$/src/day21_MultiDimentionalArrays/StringMethods.java</url>
           <line>23</line>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day32_Predicate/repl01.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day32_Predicate/repl13.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day31/Bulk_removeAll.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day31/Bulk_removeAll.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

@@ -38,5 +38,6 @@ public class MoveZeros2 {
             num.add(0);
         }
         System.out.println(num);
+        String a12="silent";
     }
 }

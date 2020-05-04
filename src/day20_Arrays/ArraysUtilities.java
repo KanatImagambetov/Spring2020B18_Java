@@ -8,7 +8,7 @@ public class ArraysUtilities {
         String r=Arrays.toString(arr);
 
         System.out.println(r);
-        System.out.println(arr);
+//        System.out.println(arr);
 
         String names[]={"Madi", "Kanat", "Osman"};
         System.out.println(Arrays.toString(names));
