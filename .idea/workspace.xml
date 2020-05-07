@@ -44,39 +44,13 @@
       <recent name="Resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CapitalOne">
-    <configuration name="CapitalOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day34_CustomClass.CapitalOne" />
+  <component name="RunManager" selected="Application.Dog">
+    <configuration name="Dog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day35_Static.Dog" />
       <module name="Spring2020B18_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day34_CustomClass.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DogObj" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day34_CustomClass.DogObj" />
-      <module name="Spring2020B18_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day34_CustomClass.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DogObj2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day34_CustomClass.DogObj2" />
-      <module name="Spring2020B18_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day34_CustomClass.*" />
+          <option name="PATTERN" value="day35_Static.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +71,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentsObjects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day34_CustomClass.StudentsObjects" />
+    <configuration name="OfferObj" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day35_Static.OfferObj" />
       <module name="Spring2020B18_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day34_CustomClass.*" />
+          <option name="PATTERN" value="day35_Static.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,12 +84,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestersID" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day34_CustomClass.TestersID" />
+    <configuration name="staticMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day35_Static.staticMethods" />
       <module name="Spring2020B18_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day34_CustomClass.*" />
+          <option name="PATTERN" value="day35_Static.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="staticVariable02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day35_Static.staticVariable02" />
+      <module name="Spring2020B18_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day35_Static.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="staticVariables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day35_Static.staticVariables" />
+      <module name="Spring2020B18_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day35_Static.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CapitalOne" />
-        <item itemvalue="Application.TestersID" />
-        <item itemvalue="Application.StudentsObjects" />
-        <item itemvalue="Application.DogObj2" />
-        <item itemvalue="Application.DogObj" />
+        <item itemvalue="Application.Dog" />
+        <item itemvalue="Application.staticMethods" />
+        <item itemvalue="Application.staticVariable02" />
+        <item itemvalue="Application.staticVariables" />
+        <item itemvalue="Application.OfferObj" />
       </list>
     </recent_temporary>
   </component>
@@ -186,38 +186,38 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="122" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1586713275389" />
-    <state width="1323" height="212" key="GridCell.Tab.0.bottom" timestamp="1588708073570">
+    <state width="1323" height="105" key="GridCell.Tab.0.bottom" timestamp="1588869263949">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="212" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588708073570" />
-    <state width="1323" height="212" key="GridCell.Tab.0.center" timestamp="1588708073570">
+    <state width="1323" height="105" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588869263949" />
+    <state width="1323" height="105" key="GridCell.Tab.0.center" timestamp="1588869263949">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="212" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1588708073570" />
-    <state width="1323" height="212" key="GridCell.Tab.0.left" timestamp="1588708073569">
+    <state width="1323" height="105" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1588869263949" />
+    <state width="1323" height="105" key="GridCell.Tab.0.left" timestamp="1588869263948">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="212" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1588708073569" />
-    <state width="1323" height="212" key="GridCell.Tab.0.right" timestamp="1588708073570">
+    <state width="1323" height="105" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1588869263948" />
+    <state width="1323" height="105" key="GridCell.Tab.0.right" timestamp="1588869263949">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="212" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1588708073570" />
-    <state width="1323" height="222" key="GridCell.Tab.1.bottom" timestamp="1588530248909">
+    <state width="1323" height="105" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1588869263949" />
+    <state width="1323" height="222" key="GridCell.Tab.1.bottom" timestamp="1588862522538">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="222" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588530248909" />
-    <state width="1323" height="222" key="GridCell.Tab.1.center" timestamp="1588530248909">
+    <state width="1323" height="222" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588862522538" />
+    <state width="1323" height="222" key="GridCell.Tab.1.center" timestamp="1588862522538">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="222" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1588530248909" />
-    <state width="1323" height="222" key="GridCell.Tab.1.left" timestamp="1588530248909">
+    <state width="1323" height="222" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1588862522538" />
+    <state width="1323" height="222" key="GridCell.Tab.1.left" timestamp="1588862522538">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="222" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1588530248909" />
-    <state width="1323" height="222" key="GridCell.Tab.1.right" timestamp="1588530248909">
+    <state width="1323" height="222" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1588862522538" />
+    <state width="1323" height="222" key="GridCell.Tab.1.right" timestamp="1588862522538">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="222" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1588530248909" />
+    <state width="1323" height="222" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1588862522538" />
     <state x="184" y="0" key="SettingsEditor" timestamp="1585068843519">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
