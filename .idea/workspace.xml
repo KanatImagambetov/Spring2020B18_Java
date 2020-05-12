@@ -45,13 +45,13 @@
       <recent name="Resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DogObjects">
-    <configuration name="CObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day37_Costructions.CObject" />
+  <component name="RunManager" selected="Application.ConstructorPractice">
+    <configuration name="CircleObj" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day38_Constructors.CircleObj" />
       <module name="Spring2020B18_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day37_Costructions.*" />
+          <option name="PATTERN" value="day38_Constructors.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -59,8 +59,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CircleObj" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day38_Constructors.CircleObj" />
+    <configuration name="ConstructorCalls2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day38_Constructors.ConstructorCalls2" />
+      <module name="Spring2020B18_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day38_Constructors.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConstructorCalls3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day38_Constructors.ConstructorCalls3" />
+      <module name="Spring2020B18_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day38_Constructors.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConstructorPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day38_Constructors.ConstructorPractice" />
       <module name="Spring2020B18_Java" />
       <extension name="coverage">
         <pattern>
@@ -85,19 +111,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EmployeeSalary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day38_Constructors.EmployeeSalary" />
-      <module name="Spring2020B18_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day38_Constructors.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Example01" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="GUI_exercises.Example01" />
       <module name="Spring2020B18_Java" />
@@ -111,26 +124,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShoppingList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day38_Constructors.ShoppingList" />
-      <module name="Spring2020B18_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day38_Constructors.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ConstructorPractice" />
+        <item itemvalue="Application.ConstructorCalls3" />
+        <item itemvalue="Application.ConstructorCalls2" />
         <item itemvalue="Application.DogObjects" />
         <item itemvalue="Application.CircleObj" />
-        <item itemvalue="Application.EmployeeSalary" />
-        <item itemvalue="Application.ShoppingList" />
-        <item itemvalue="Application.CObject" />
       </list>
     </recent_temporary>
   </component>
@@ -187,22 +187,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="122" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1588962150617" />
-    <state width="1323" height="133" key="GridCell.Tab.0.bottom" timestamp="1589302165053">
+    <state width="1323" height="172" key="GridCell.Tab.0.bottom" timestamp="1589309303742">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="133" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589302165053" />
-    <state width="1323" height="133" key="GridCell.Tab.0.center" timestamp="1589302165053">
+    <state width="1323" height="172" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589309303742" />
+    <state width="1323" height="172" key="GridCell.Tab.0.center" timestamp="1589309303741">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="133" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1589302165053" />
-    <state width="1323" height="133" key="GridCell.Tab.0.left" timestamp="1589302165053">
+    <state width="1323" height="172" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1589309303741" />
+    <state width="1323" height="172" key="GridCell.Tab.0.left" timestamp="1589309303740">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="133" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1589302165053" />
-    <state width="1323" height="133" key="GridCell.Tab.0.right" timestamp="1589302165053">
+    <state width="1323" height="172" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1589309303740" />
+    <state width="1323" height="172" key="GridCell.Tab.0.right" timestamp="1589309303741">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="133" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1589302165053" />
+    <state width="1323" height="172" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1589309303741" />
     <state width="1323" height="222" key="GridCell.Tab.1.bottom" timestamp="1588862522538">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -306,6 +306,9 @@
     </SUITE>
     <SUITE FILE_PATH="coverage/Spring2020B18_Java$Example01.ic" NAME="Example01 Coverage Results" MODIFIED="1587240710347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>GUI_exercises.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Spring2020B18_Java$ConstructorCalls2.ic" NAME="ConstructorCalls2 Coverage Results" MODIFIED="1589308543153" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>day38_Constructors.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/Spring2020B18_Java$HelloWorld.ic" NAME="HelloWorld Coverage Results" MODIFIED="1583780855705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>day01_FirstProgramming.*</FILTER>
