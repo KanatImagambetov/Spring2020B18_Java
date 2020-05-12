@@ -7,7 +7,7 @@ public class StaticBlock1 {
     }
 
     public static void method1() {
-        System.out.println("Custom method executed");
+                System.out.println("Custom method executed");
     }
     static{
         System.out.println("Hello World");

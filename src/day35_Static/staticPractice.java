@@ -15,9 +15,9 @@ public class staticPractice {
     }
     public void method1(){
         Scanner input=new Scanner(System.in);
-        System.out.println("Enter number 1");
+        System.out.println("Enter number 1-");
         int number1=input.nextInt();
-        System.out.println("Enter number 2");
+        System.out.println("Enter number 2-");
         int number2=input.nextInt();
         System.out.println("Multiplication is: "+(number1*number2));
 

@@ -11,8 +11,8 @@ public class staticMethods {
         System.out.println(b);
         System.out.println(staticMethods.b);
         System.out.println(obj.b);
+        System.out.println("===========================================");
     }
-
     public void method() {
         System.out.println(a);
         System.out.println(b);
