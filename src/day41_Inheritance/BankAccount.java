@@ -1,0 +1,40 @@
+package day41_Inheritance;
+
+public class BankAccount {
+    public static String bankName="Bank of America";
+    public String firstName;
+    public String lastName;
+    private String accountHolder;
+    private long accountNumber;
+    private double balance;
+
+    public BankAccount(String firstName, String lastName){
+        this.firstName=firstName;
+        this.lastName=lastName;
+        this.accountHolder=firstName+" "+lastName;
+    }
+    public String getAccountHolder(){
+        return accountHolder;
+    }
+    public void setAccountHolder(String firstName,String lastName){
+        accountHolder= firstName+" "+lastName;
+    }
+    public double getBalance() {
+        return balance;
+    }
+    public void setBalance(double balance) {
+        this.balance = balance;
+    }
+    public void depositing(int amount){
+        setBalance(balance+amount);
+    }
+    public void withdrawing(int amount){
+        balance-=amount;
+    }
+    public void checkBalance(){
+        System.out.println("Availible balance "+balance);
+    }
+    public String toString(){
+        return "Full name: "+getAccountHolder()+", Balance: "+getBalance();
+    }
+}
